@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "VisitorAuthApp",
+    "slug": "visitor-auth-app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.amrutsp1984.visitorauthapp",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.amrutsp1984.visitorauthapp"
+    }
+  }
+}
